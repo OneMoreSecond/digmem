@@ -27,6 +27,8 @@ From this view, memory is a temporal information bottleneck.
 | Unrelated | zero |
 | Related and incorrect | negative |
 
+We can focus on providing correct and most-probably-related information, without the fear of missing
+
 #### Type of cost for agent
 
 - Token cost
