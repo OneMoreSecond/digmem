@@ -110,7 +110,7 @@ Agents can submit digestion update by `digmem update-tree [node-ID] FILE`.
 `digmem show [node-ID]` can read the content of given node.
 The root node will be read if no argument is given.
 
-`digmem show statement-ID` can read the content of given node.
+`digmem show statement-ID` can read the content of given statement.
 
 ## Performance
 
