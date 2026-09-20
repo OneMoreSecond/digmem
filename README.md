@@ -8,7 +8,7 @@ Core features include:
 - Tree-based memory digestion and evolvement
 - Version control system compatible
 
-Check [philosophy.md](doc/writing/philosophy.md) for rationales behind them.
+Check [philosophy](doc/writing/philosophy.md) and [architecture](doc/writing/architecture/general.md) for details behind them.
 
 ## Quick start
 
