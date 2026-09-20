@@ -1,3 +1,6 @@
+# tmp directories
+tmp/
+
 # VSCode config
 /.vscode
 
